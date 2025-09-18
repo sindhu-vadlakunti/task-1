@@ -1,3 +1,8 @@
+GITHUB REPO:https://github.com/sindhu-vadlakunti/task-1
+LIVE DEMO LINK:https://sindhu-vadlakunti.github.io/task-1/
+
+
+
 # AI Startup Website
 
 A modern, responsive website for an AI startup company built with Bootstrap 5.

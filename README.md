@@ -122,13 +122,6 @@ This project is open source and available under the [MIT License](LICENSE).
 - Implementing form validation without jQuery
 - Optimizing images and assets for fast loading
 
-### Time Spent
-
-- Planning: 2 hours
-- Design: 3 hours
-- Development: 8 hours
-- Testing: 2 hours
-- Documentation: 1 hour
 
 ## Credits
 
